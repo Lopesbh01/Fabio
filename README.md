@@ -86,7 +86,7 @@ Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursan
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+  
 </p>
 
 ## Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF, utilizando java.💻💾
