@@ -1,5 +1,4 @@
-## Olá, eu sou Fabio, estudante de ADS e aspirante a programador
+## Olá, eu sou Fabio, estudante de Análise e Desenvolvimento de Sistemas
 
-- Estou estudando como configurar o Github 🚩
 - Curso ADS na Universidade Cruzeiro do Sul 📚
-- Desejo utilizar o Github para aprender a programar e alterar os códigos-fonte de aplicações relacionadas à preservação digital.⚙
+- Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital.⚙
