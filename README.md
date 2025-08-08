@@ -4,6 +4,8 @@
 
 Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis, durante meu curso Doutorado em Ciência da Informação. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital. Sinta-se à vonatde para tecer críticas e contribuir com minha pesquisa.
 
+Contato: www.linkedin.com/in/fábio-andrade-343233252
+
 ---
 
 ## Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF, utilizando java.
