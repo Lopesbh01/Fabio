@@ -1,4 +1,4 @@
-## Olá, eu sou Fabio, Estudante de ADS e aspirante a programador
+## Olá, eu sou Fabio, estudante de ADS e aspirante a programador
 
 - Estou estudando como configurar o Github 🚩
 - Curso ADS na Universidade Cruzeiro do Sul 📚
