@@ -69,7 +69,6 @@ Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursan
 <br/>
 <br/>
 
-
 ### 📊 Estatísticas
 
 <p>
@@ -78,19 +77,19 @@ Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursan
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Fabio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-# Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF, utilizando java.💻💾
+</p>
 
-
+## Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF, utilizando java.💻💾
 
 ## Objetivo:
 Criar uma ferramenta para extração de metadados descritivos, estruturais e administrativos de Pacotes de Submissão de Informação (SIP), voltada para documentos em formato PDF.
