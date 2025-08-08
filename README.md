@@ -6,9 +6,7 @@ Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursan
 
 Contato: www.linkedin.com/in/fábio-andrade-343233252
 
----
-
-## Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF, utilizando java.
+# Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF
 
 ### Objetivo:
 Criar uma ferramenta para extração de metadados descritivos, estruturais e administrativos de Pacotes de Submissão de Informação (SIP), voltada para documentos em formato PDF.
