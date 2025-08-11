@@ -58,7 +58,7 @@ Criar uma ferramenta para extração de metadados descritivos, estruturais e adm
  
 <div>
 
-## 💻 Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
   
@@ -75,7 +75,7 @@ Criar uma ferramenta para extração de metadados descritivos, estruturais e adm
 
 </p>
 
-## ⭐ GitHub Stats
+## GitHub Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Fabio&show_icons=true&theme=tokyonight&line_height=27">
@@ -90,17 +90,3 @@ Criar uma ferramenta para extração de metadados descritivos, estruturais e adm
 
 
 
-<!--
-**kakacordovil/kakacordovil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
