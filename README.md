@@ -4,8 +4,6 @@
 
 Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis. Neste momento, me concentro em terminar o curso de Doutorado em Ciência da Informação, na UFMG. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital. Sinta-se à vonatde para tecer críticas e contribuir com minha pesquisa.
 
-Contato: www.linkedin.com/in/fábio-andrade-343233252
-
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -14,7 +12,7 @@ Contato: www.linkedin.com/in/fábio-andrade-343233252
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:arquivistaufmg@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fábio-andrade-343233252)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]([https://pgda.eci.ufmg.br/](https://www.instagram.com/lopesfabio2520/))
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lopesfabio2520/)
 
 #
 
@@ -24,14 +22,20 @@ Contato: www.linkedin.com/in/fábio-andrade-343233252
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lopesbh01/Fabio/output/github-contribution-grid-snake.svg">
 </picture>
 
+#
+
 # Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF
 
-### Objetivo:
+### Especificações Técnicas Obrigatórias:
 Criar uma ferramenta para extração de metadados descritivos, estruturais e administrativos de Pacotes de Submissão de Informação (SIP), voltada para documentos em formato PDF.
+ 
+ #
 
 ### Tecnologias utilizadas:
 - Biblioteca Apache PDFBox
 - JSON
+
+#
 
 ### Conhecimento adquirido:
 
@@ -56,5 +60,3 @@ Criar uma ferramenta para extração de metadados descritivos, estruturais e adm
   - Integrar com bancos de dados para armazenamento automatizado.
  
 <div>
-<br/>
-<br/>
