@@ -7,9 +7,9 @@ Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursan
 Contato: www.linkedin.com/in/fábio-andrade-343233252
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lopesbh01/Fabio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lopesbh01/Fabio/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lopesbh01/Fabio/output/github-contribution-grid-snake.svg">
 </picture>
 
 # Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF
