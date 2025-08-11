@@ -2,9 +2,21 @@
 
 **`Aspirante a Programador`**
 
-Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis, durante meu curso Doutorado em Ciência da Informação. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital. Sinta-se à vonatde para tecer críticas e contribuir com minha pesquisa.
+Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis. Neste momento, me concentro em terminar o curso de Doutorado em Ciência da Informação, na UFMG. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital. Sinta-se à vonatde para tecer críticas e contribuir com minha pesquisa.
 
 Contato: www.linkedin.com/in/fábio-andrade-343233252
+
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:arquivistaufmg@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fábio-andrade-343233252)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]([https://pgda.eci.ufmg.br/](https://www.instagram.com/lopesfabio2520/))
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lopesbh01/Fabio/output/github-contribution-grid-snake-dark.svg">
