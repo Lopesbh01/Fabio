@@ -1,10 +1,13 @@
-# 👨🏽 Fabio Lopes
+# Fabio Andrade
 
 **`Aspirante a Programador`**
 
-Meu nome é Fábio Lopes e sou natural do Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis. Neste momento, me concentro em terminar o curso de Doutorado em Ciência da Informação, na UFMG. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital. Sinta-se à vonatde para tecer críticas e contribuir com minha pesquisa.
+ ![Image Alt](https://github.com/Lopesbh01/Fabio/blob/cb4ef0c2c84f82cfc3536bcf0a5b29921b88372a/1677790891424.jpg).
 
-#
+
+Meu nome é Fábio Andrade. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis. Neste momento, concentro-me em terminar o curso de Doutorado em Ciência da Informação, na UFMG. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital. 
+
+Sinta-se à vonatde para tecer críticas e contribuir com minha pesquisa.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
