@@ -30,7 +30,7 @@ Sinta-se à vontade para tecer críticas e contribuir com minha pesquisa.
 # Projeto: Criação de ferramenta simples para extração de metadados de arquivos em formato PDF
 
 ### Especificações Técnicas Obrigatórias:
-Criar uma ferramenta para extração de metadados descritivos, estruturais e administrativos de Pacotes de Submissão de Informação (SIP), voltada para documentos em formato PDF.
+Criar uma ferramenta para extração de metadados descritivos, estruturais e administrativos para subsidiar elaboarção de Pacotes de Submissão de Informação (SIP). A ferramenta deve ser voltada para utilização em objetos digitais em formato PDF. A ferramenta deverá suportar a execução da tarefa "em lote".
  
 #
 
