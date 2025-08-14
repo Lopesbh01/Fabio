@@ -7,7 +7,7 @@
 
 Meu nome é Fábio Andrade. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis. Neste momento, concentro-me em terminar o curso de Doutorado em Ciência da Informação, na UFMG. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital. 
 
-Sinta-se à vonatde para tecer críticas e contribuir com minha pesquisa.
+Sinta-se à vontade para tecer críticas e contribuir com minha pesquisa.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
