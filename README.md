@@ -5,7 +5,7 @@
  ![Image Alt](https://github.com/Lopesbh01/Fabio/blob/cb4ef0c2c84f82cfc3536bcf0a5b29921b88372a/1677790891424.jpg).
 
 
-Meu nome é Fábio Andrade. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis. Neste momento, concentro-me em terminar o curso de Doutorado em Ciência da Informação, na UFMG. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação digital. 
+Meu nome é Fábio Andrade. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e desenvolvo pesquisa voltada para a preservação arquivística digital em repositórios digitais confiáveis. Neste momento, concentro-me em terminar o curso de Doutorado em Ciência da Informação, na UFMG. Pretendo utilizar o Github para aprender a programar e desenvolver códigos-fonte de aplicações relacionadas à preservação arquivistica digital no.longo.prazo. 
 
 Sinta-se à vontade para tecer críticas e contribuir com minha pesquisa.
 
