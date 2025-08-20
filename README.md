@@ -38,13 +38,13 @@ Criar uma ferramenta para extração de metadados descritivos, estruturais e adm
 
 #### Manipulação de PDFs com Java:
 - Aprendi a usar a classe PDDocument do PDFBox para carregar arquivos PDF e acessar metadados via PDDocumentInformation.
-- Desafio: Lidar com PDFs criptografados (solução: implementar tratamento de exceções para InvalidPasswordException).
+- Desafio: Lidar com PDFs criptografados.
 
 #### Estruturação de Metadados em JSON:
 - Utilizei a biblioteca Jackson para converter os metadados extraídos em um formato JSON padronizado.
 
 #### Validação de Integridade:
-- Implementei checksums (SHA-256) para verificar se o arquivo PDF não foi alterado após a extração.
+- Implementei checksums (SHA-256) para verificar se o arquivo PDF não foi alterado/corrompido após a extração.
 
 #### Gestão de Dependências:
 - Aprendi a usar o Maven para gerenciar as bibliotecas (PDFBox, Jackson) e garantir compatibilidade.
